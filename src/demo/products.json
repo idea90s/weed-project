@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "name": "Blue Dream",
+    "price_per_g": 150,
+    "thc": 20,
+    "img_path": "/blue_dream.jpeg",
+    "farm": "ฟาร์ม 1",
+    "effects": ["คลายเครียด", "หัวเราะ", "การทำงาน"]
+  },
+  {
+    "id": 1,
+    "name": "OG Kush",
+    "price_per_g": 180,
+    "thc": 22,
+    "img_path": "/og_kush.jpeg",
+    "farm": "ฟาร์ม 2",
+    "effects": ["การทำงาน", "นอนหลับ", "สร้างสรรค์"]
+  },
+  {
+    "id": 2,
+    "name": "Girl Scout Cookies",
+    "price_per_g": 200,
+    "thc": 25,
+    "img_path": "/girl_scout_cookies.jpeg",
+    "farm": "ฟาร์ม 3",
+    "effects": ["หัวเราะ", "สร้างสรรค์", "คลายเครียด"]
+  },
+  {
+    "id": 3,
+    "name": "White Widow",
+    "price_per_g": 160,
+    "thc": 21,
+    "img_path": "/white_widow.jpeg",
+    "farm": "ฟาร์ม 4",
+    "effects": ["นอนหลับ", "คลายเครียด", "การทำงาน"]
+  },
+  {
+    "id": 4,
+    "name": "Northern Lights",
+    "price_per_g": 170,
+    "thc": 23,
+    "img_path": "/northern_lights.jpeg",
+    "farm": "ฟาร์ม 5",
+    "effects": ["สร้างสรรค์", "คลายเครียด", "การทำงาน"]
+  },
+  {
+    "id": 5,
+    "name": "AK-47",
+    "price_per_g": 190,
+    "thc": 24,
+    "img_path": "/ak_47.jpeg",
+    "farm": "ฟาร์ม 6",
+    "effects": ["การทำงาน", "หัวเราะ", "นอนหลับ"]
+  },
+  {
+    "id": 6,
+    "name": "Sour Diesel",
+    "price_per_g": 180,
+    "thc": 23,
+    "img_path": "/sour_diesel.jpeg",
+    "farm": "ฟาร์ม 7",
+    "effects": ["นอนหลับ", "สร้างสรรค์", "คลายเครียด"]
+  },
+  {
+    "id": 7,
+    "name": "Granddaddy Purple",
+    "price_per_g": 220,
+    "thc": 26,
+    "img_path": "/granddaddy_purple.jpeg",
+    "farm": "ฟาร์ม 8",
+    "effects": ["หัวเราะ", "คลายเครียด", "การทำงาน"]
+  },
+  {
+    "id": 8,
+    "name": "Chemdawg",
+    "price_per_g": 200,
+    "thc": 24,
+    "img_path": "/chemdawg.jpeg",
+    "farm": "ฟาร์ม 9",
+    "effects": ["คลายเครียด", "การทำงาน", "นอนหลับ"]
+  },
+  {
+    "id": 9,
+    "name": "Pineapple Express",
+    "price_per_g": 210,
+    "thc": 22,
+    "img_path": "/pineapple_express.jpeg",
+    "farm": "ฟาร์ม 10",
+    "effects": ["การทำงาน", "หัวเราะ", "สร้างสรรค์"]
+  }
+]
